@@ -15,11 +15,8 @@
         "id": "5537f96903c59031",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/02 - 微习惯/未命名.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02 - 微习惯/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +92,7 @@
   },
   "active": "5537f96903c59031",
   "lastOpenFiles": [
+    "。.md",
     "notes/02 - 微习惯/未命名.md",
     "SlidesReader/微信读书.md",
     "notes/01 - 算法（第 4 版）.md"
