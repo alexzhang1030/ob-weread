@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "767880400b55696e",
+        "id": "f8cbce557ef06263",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -12,10 +12,10 @@
         }
       },
       {
-        "id": "5537f96903c59031",
+        "id": "80f04718d0ba5139",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "reveal-preview-view",
           "state": {}
         }
       }
@@ -90,11 +90,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5537f96903c59031",
+  "active": "80f04718d0ba5139",
   "lastOpenFiles": [
+    "SlidesReader/微信读书.md",
     "。.md",
     "notes/02 - 微习惯/未命名.md",
-    "SlidesReader/微信读书.md",
     "notes/01 - 算法（第 4 版）.md"
   ]
 }
