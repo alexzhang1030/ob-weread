@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f8cbce557ef06263",
+        "id": "b0064766a6a17d27",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -12,11 +12,14 @@
         }
       },
       {
-        "id": "80f04718d0ba5139",
+        "id": "a7aa3f075b679e5e",
         "type": "leaf",
         "state": {
-          "type": "reveal-preview-view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SlidesReader/微信读书.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlidesReader/微信读书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80f04718d0ba5139",
+  "active": "a7aa3f075b679e5e",
   "lastOpenFiles": [
     "SlidesReader/微信读书.md",
     "。.md",
